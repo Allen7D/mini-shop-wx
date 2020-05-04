@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<button type="primary" style="margin:10px 20px;" bindtap="getSuperToken">申请Super权限令牌</button>
+<button type="primary" style="margin:10px 20px;" bindtap="getToken">申请令牌</button>
+<button type="primary" style="margin:10px 20px;" bindtap="decryptToken">解析令牌</button>
+<button type="default" style="margin:10px 20px;" bindtap="getUser">查询用户自身信息</button>
+<button type="default" style="margin:10px 20px;" bindtap="getProductByRecent">查询最新上架商品</button>
+<button type="default" style="margin:10px 20px;" bindtap="getOrderList">查询订单列表</button>

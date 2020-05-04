@@ -1,0 +1,11 @@
+# Editor directories and files
+.DS_Store
+.idea
+.vscode
+
+# Local working file
+/dist
+/node_modules
+/miniprogram_npm
+sitemap.json
+package-lock.json
